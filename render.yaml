@@ -1,0 +1,8 @@
+services:
+  - type: static_site
+    name: dice-for-yz-2
+    env: static
+    branch: master
+    buildCommand: npm install && VITE_BASE=/ npm run build
+    publishPath: dist
+    plan: free

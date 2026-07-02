@@ -7,6 +7,7 @@ declare var __dirname: string;
 
 // https://vitejs.dev/config/
 export default defineConfig({
+  base: process.env.VITE_BASE ?? "/",
   plugins: [react()],
   assetsInclude: ["**/*.glb", "**/*.hdr"],
   server: {
