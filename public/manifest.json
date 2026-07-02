@@ -9,5 +9,16 @@
     "height": 600,
     "width": 400
   },
-  "background_url": "background.html"
+  "author": "moorlo",
+  "homepage_url": "https://github.com/moorlo/dice-for-yz-2",
+  "icon": "/icon.svg",
+  "description": "3D dice roller for Owlbear Rodeo",
+  "action": {
+    "title": "dice for YZ",
+    "icon": "/icon.svg",
+    "popover": "/",
+    "height": 600,
+    "width": 400
+  },
+  "background_url": "/background.html"
 }
