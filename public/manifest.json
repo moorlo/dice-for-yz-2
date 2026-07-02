@@ -1,24 +1,17 @@
 {
-  "name": "dice for YZ",
-  "version": "1.0.0",
+  "name": "Dice for YZ",
+  "version": "0.1.1",
   "manifest_version": 1,
-  "action": {
-    "title": "dice for YZ",
-    "icon": "icon.svg",
-    "popover": "popover.html",
-    "height": 600,
-    "width": 400
-  },
   "author": "moorlo",
   "homepage_url": "https://github.com/moorlo/dice-for-yz-2",
-  "icon": "/icon.svg",
-  "description": "3D dice roller for Owlbear Rodeo",
+  "icon": "/logo.png",
+  "description": "Unofficial Dice roller for YZ",
   "action": {
-    "title": "dice for YZ",
-    "icon": "/icon.svg",
+    "title": "Dice for YZ",
+    "icon": "/",
     "popover": "/",
-    "height": 600,
-    "width": 400
+    "height": 700,
+    "width": 375
   },
   "background_url": "/background.html"
 }
