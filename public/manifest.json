@@ -1,13 +1,13 @@
 {
-  "name": "Dice",
-  "version": "2.0.0",
+  "name": "dice for YZ",
+  "version": "1.0.0",
   "manifest_version": 1,
   "action": {
-    "title": "Dice",
+    "title": "dice for YZ",
     "icon": "icon.svg",
     "popover": "popover.html",
-    "height": 700,
-    "width": 375
+    "height": 600,
+    "width": 400
   },
   "background_url": "background.html"
 }
